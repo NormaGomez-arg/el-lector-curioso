@@ -50,7 +50,7 @@ La aplicación permite explorar un catálogo de libros, realizar búsquedas y fi
 
 5. Abrir en el navegador la dirección local indicada por Vite.
 
-## Integrante
+## Integrantes
 
 - Norma Gomez y Andrea Rodríguez
 
